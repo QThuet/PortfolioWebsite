@@ -1,0 +1,11 @@
+.headerDiv{
+    display: flexbox;
+    align-items: flex-start;
+    max-height: 15%;
+    width: 100%;
+    background-color: black;
+    padding: 10px;
+    margin: 0px;
+    border: 0px;
+    content: 100%;
+}
